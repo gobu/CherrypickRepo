@@ -9,3 +9,7 @@ data 5 added
 testing auto sync 
 
 testing auto sync 2 
+
+-------------------------------
+commit protect
+-------------------------------
