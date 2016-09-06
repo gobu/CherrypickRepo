@@ -6,6 +6,8 @@ data 3 added
 data 4 added do cherry pick
 data 5 added
 
+test access protect pull 
+
 testing auto sync 
 
 testing auto sync 2 
