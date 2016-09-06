@@ -11,3 +11,5 @@ test access protect pull
 testing auto sync 
 
 testing auto sync 2 
+
+test commit protect 2
