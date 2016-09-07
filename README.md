@@ -21,3 +21,6 @@ test commit protect 2
 -------------------------------
 commit protect
 -------------------------------
+
+test commit pretect branch 5
+
